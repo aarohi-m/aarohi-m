@@ -7,7 +7,7 @@
 I'm [**Aarohi**](https://www.linkedin.com/in/), a software engineer, student, creative programmer, and digital architect
 
 - Currently
-  CS Student [@AKTU](https:/aktu/.in/) (Junior).
+  CS Student [@AKTU](https:/aktu/.in/) (3rd year).
   Building web services, demos, and hackathon projects.
 - Toolbox Languages:
   Go, Java, Rust
